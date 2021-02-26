@@ -40,7 +40,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+$ git clone https://github.com/afpp3/moveit.git && cd moveit
 ```
 
 Follow the steps below
